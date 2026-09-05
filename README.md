@@ -4,13 +4,6 @@ A tiny single-file HTML5 canvas fighting game (one player vs. a simple AI oppone
 
 No installs, no build tools, no server — everything runs by double-clicking an HTML file in a browser.
 
-## Contents
-
-| File | What it is |
-|---|---|
-| [`stick-fight.html`](./stick-fight.html) | The finished game. A complete, working reference implementation / answer key. |
-| [`stick-fight-tutorial.md`](./stick-fight-tutorial.md) | The student-facing tutorial: how to prompt an AI assistant well, a 9-step build plan, debugging tips, and an AI ethics discussion. |
-
 ## Using the tutorial
 
 **Students:** open `stick-fight-tutorial.md` and follow it from the top. You'll create your own empty `stick-fight.html`, and build it up one small AI prompt at a time rather than pasting in the finished version above. The tutorial tells you exactly when to test, how to describe bugs, and how to ask for each new feature.
